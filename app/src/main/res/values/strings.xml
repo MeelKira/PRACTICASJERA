@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">PRACTICAS</string>
+    <string name="verificar_a_o_bisiesto">Verificar año Bisiesto</string>
+    <string name="año">Año :</string>
+    <string name="inicio">INICIO</string>
+    <string name="verificar">VERIFICAR</string>
+    <string name="que_tabla_de_multiplicar_deseas_saber">¿Que tabla de multiplicar deseas saber?</string>
+    <string name="materia5">MATERIA5</string>
+    <string name="materia3">MATERIA3</string>
+    <string name="inicio">INICIO</string>
+    <string name="materia1">MATERIA1</string>
+    <string name="materia4">MATERIA4</string>
+    <string name="materia2">MATERIA2</string>
+    <string name="button">Button</string>
+    <string name="textview">TextView</string>
+    <string name="meelkira">MEELKIRA</string>
+    <string name="bisiesto">BISIESTO</string>
+    <string name="personaje">PERSONAJE</string>
+    <string name="tablas_de_multiplicar">TABLAS DE MULTIPLICAR</string>
+    <string name="calificaciones">CALIFICACIONES</string>
+
+</resources>
